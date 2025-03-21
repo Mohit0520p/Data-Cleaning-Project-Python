@@ -1,0 +1,16 @@
+Sales_ID,Product,Price,Quantity,Customer_ID,Order_Date,City,Sales_Rep,Discount,Payment_Method
+1.0,Laptop,1200.0,1.0,101.0,2023-09-01,New York,John,10.0,Credit Card
+2.0,Mouse,20.0,2.0,102.0,2023-09-01,Los Angeles,Anna,5.0,Paypal
+3.0,Keyboard,30.0,1.3125,103.0,2023-09-02,Chicago,Mike,0.0,Credit Card
+5.0,Laptop,366.875,1.0,101.0,2023-09-03,New York,John,7.3076923076923075,Paypal
+5.0,Mouse,20.0,2.0,106.0,2023-09-04,Los Angeles,Anna,5.0,Credit Card
+7.0,Tablet,450.0,1.0,107.0,2023-09-04,Chicago,Mike,10.0,Paypal
+9.0,Keyboard,30.0,2.0,109.0,2023-09-06,Chicago,Anna,0.0,Credit Card
+11.0,Laptop,1200.0,1.0,101.0,2023-09-01,New York,John,10.0,Paypal
+12.0,Mouse,20.0,2.0,112.0,2023-09-08,Los Angeles,Anna,5.0,Credit Card
+9.833333333333334,Tablet,366.875,1.0,113.0,2023-09-09,Chicago,Mike,10.0,Credit Card
+14.0,Monitor,300.0,1.0,114.0,2023-09-01,Houston,Chris,7.3076923076923075,Paypal
+16.0,Mouse,20.0,2.0,109.11764705882354,2023-09-10,Los Angeles,Chris,15.0,Paypal
+18.0,Tablet,450.0,1.0,118.0,2023-09-03,Chicago,Chris,15.0,Paypal
+9.833333333333334,Monitor,300.0,1.0,119.0,2023-09-01,New York,John,0.0,Paypal
+20.0,Laptop,1200.0,1.0,120.0,2023-09-01,New York,John,10.0,Paypal

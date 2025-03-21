@@ -1,0 +1,5 @@
+Sales_ID,Product,Price,Quantity,Customer_ID,Order_Date,City,Sales_Rep,Discount,Payment_Method
+17.0,Keyboard,30.0,,117.0,2023-09-02,,Mike,5.0,Credit Card
+18.0,Tablet,450.0,1.0,118.0,2023-09-03,Chicago,Chris,15.0,Paypal
+,Monitor,300.0,1.0,119.0,2023-09-01,New York,John,0.0,Paypal
+20.0,Laptop,1200.0,1.0,120.0,2023-09-01,New York,John,10.0,Paypal
